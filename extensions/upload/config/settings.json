@@ -1,0 +1,8 @@
+{
+  "provider":"cloudinary",
+  "providerOptions":{
+    "cloud_name": "pauldan",
+    "api_key":"867469385223761",
+    "api_secret":"FS-mLw3mfQdzfGZdtAAJJNos3pc"
+  }
+}
